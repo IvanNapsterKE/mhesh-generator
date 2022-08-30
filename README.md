@@ -1,2 +1,2 @@
 # movie-finder
-Find your 'Mhesh'
+Find 'Movies'
