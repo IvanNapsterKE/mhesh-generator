@@ -1,2 +1,2 @@
-# movie-generator
+# movie-finder
 Find your 'Mhesh'
